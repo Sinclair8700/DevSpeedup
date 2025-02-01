@@ -1,0 +1,470 @@
+Log <Wed Aug  2 17:29:35 2023> : Getting php version for: Main
+Log <Wed Aug  2 17:29:35 2023> : Found PHP version: 7.4
+Log <Wed Aug  2 17:29:35 2023> : Getting php version for: side-projects
+Log <Wed Aug  2 17:29:35 2023> : Found PHP version: 8.0
+Log <Wed Aug  2 17:29:35 2023> : Loaded Devilbox installations
+Log <Wed Aug  2 17:29:35 2023> : Loaded pastables
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Wed Aug  2 17:30:52 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Wed Aug  2 17:30:53 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Wed Aug  2 17:30:53 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Wed Aug  2 17:30:54 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Wed Aug  2 17:30:55 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Wed Aug  2 17:30:56 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Wed Aug  2 17:30:57 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Wed Aug  2 17:30:57 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Wed Aug  2 17:30:57 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Wed Aug  2 17:30:57 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Wed Aug  2 17:30:57 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Wed Aug  2 17:30:58 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Wed Aug  2 17:30:58 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Wed Aug  2 17:30:59 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Wed Aug  2 17:30:59 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Wed Aug  2 17:30:59 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Wed Aug  2 17:30:59 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Wed Aug  2 17:31:00 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Wed Aug  2 17:31:02 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Wed Aug  2 17:31:02 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Wed Aug  2 17:31:02 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Wed Aug  2 17:31:02 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Wed Aug  2 17:31:03 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Wed Aug  2 17:31:03 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Wed Aug  2 17:31:03 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Wed Aug  2 17:31:03 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Wed Aug  2 17:31:04 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Wed Aug  2 17:31:04 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Wed Aug  2 17:31:04 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Wed Aug  2 17:31:05 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Wed Aug  2 17:31:06 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Wed Aug  2 17:31:06 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Wed Aug  2 17:31:06 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Wed Aug  2 17:31:07 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Wed Aug  2 17:31:07 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Wed Aug  2 17:31:07 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Wed Aug  2 17:31:07 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Wed Aug  2 17:31:07 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Wed Aug  2 17:31:08 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Wed Aug  2 17:31:08 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Wed Aug  2 17:31:09 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Wed Aug  2 17:31:09 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Wed Aug  2 17:31:10 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Wed Aug  2 17:31:10 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Wed Aug  2 17:31:37 2023> : Added repo: ports-europe-external-theme
+Log <Wed Aug  2 17:34:46 2023> : Getting php version for: Main
+Log <Wed Aug  2 17:34:46 2023> : Found PHP version: 7.4
+Log <Wed Aug  2 17:34:46 2023> : Getting php version for: side-projects
+Log <Wed Aug  2 17:34:46 2023> : Found PHP version: 8.0
+Log <Wed Aug  2 17:34:46 2023> : Loaded Devilbox installations
+Log <Wed Aug  2 17:34:46 2023> : Loaded pastables
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Wed Aug  2 17:35:20 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Wed Aug  2 17:35:21 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Wed Aug  2 17:35:21 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Wed Aug  2 17:35:22 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Wed Aug  2 17:35:22 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Wed Aug  2 17:35:24 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Wed Aug  2 17:35:24 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Wed Aug  2 17:35:25 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Wed Aug  2 17:35:25 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Wed Aug  2 17:35:25 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Wed Aug  2 17:35:25 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Wed Aug  2 17:35:26 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Wed Aug  2 17:35:26 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Wed Aug  2 17:35:27 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Wed Aug  2 17:35:27 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Wed Aug  2 17:35:27 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Wed Aug  2 17:35:28 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Wed Aug  2 17:35:29 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Wed Aug  2 17:35:30 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Wed Aug  2 17:35:30 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Wed Aug  2 17:35:31 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Wed Aug  2 17:35:31 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Wed Aug  2 17:35:31 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Wed Aug  2 17:35:31 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Wed Aug  2 17:35:32 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Wed Aug  2 17:35:32 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Wed Aug  2 17:35:32 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Wed Aug  2 17:35:33 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Wed Aug  2 17:35:33 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Wed Aug  2 17:35:34 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Wed Aug  2 17:35:34 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Wed Aug  2 17:35:35 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Wed Aug  2 17:35:35 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Wed Aug  2 17:35:35 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Wed Aug  2 17:35:35 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Wed Aug  2 17:35:36 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Wed Aug  2 17:35:36 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Wed Aug  2 17:35:36 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Wed Aug  2 17:35:36 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Wed Aug  2 17:35:36 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Wed Aug  2 17:35:37 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Wed Aug  2 17:35:38 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Wed Aug  2 17:35:38 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Wed Aug  2 17:35:38 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Wed Aug  2 17:36:03 2023> : called
+Log <Wed Aug  2 17:36:03 2023> : Added repo: channel-4-homepage-challenger-97.0-labelling-personalised
+Log <Wed Aug  2 17:51:13 2023> : Getting php version for: Main
+Log <Wed Aug  2 17:51:13 2023> : Found PHP version: 7.4
+Log <Wed Aug  2 17:51:13 2023> : Getting php version for: side-projects
+Log <Wed Aug  2 17:51:13 2023> : Found PHP version: 8.0
+Log <Wed Aug  2 17:51:13 2023> : Loaded Devilbox installations
+Log <Wed Aug  2 17:51:13 2023> : Loaded pastables
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Wed Aug  2 17:51:33 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Wed Aug  2 17:51:34 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Wed Aug  2 17:51:34 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Wed Aug  2 17:51:34 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Wed Aug  2 17:51:35 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Wed Aug  2 17:51:37 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Wed Aug  2 17:51:37 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Wed Aug  2 17:51:37 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Wed Aug  2 17:51:38 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Wed Aug  2 17:51:38 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Wed Aug  2 17:51:38 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Wed Aug  2 17:51:39 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Wed Aug  2 17:51:39 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Wed Aug  2 17:51:40 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Wed Aug  2 17:51:40 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Wed Aug  2 17:51:40 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Wed Aug  2 17:51:40 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Wed Aug  2 17:51:41 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Wed Aug  2 17:51:43 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Wed Aug  2 17:51:43 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Wed Aug  2 17:51:43 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Wed Aug  2 17:51:43 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Wed Aug  2 17:51:44 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Wed Aug  2 17:51:44 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Wed Aug  2 17:51:44 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Wed Aug  2 17:51:44 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Wed Aug  2 17:51:45 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Wed Aug  2 17:51:45 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Wed Aug  2 17:51:45 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Wed Aug  2 17:51:46 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Wed Aug  2 17:51:47 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Wed Aug  2 17:51:47 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Wed Aug  2 17:51:48 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Wed Aug  2 17:51:48 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Wed Aug  2 17:51:48 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Wed Aug  2 17:51:49 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Wed Aug  2 17:51:49 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Wed Aug  2 17:51:49 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Wed Aug  2 17:51:49 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Wed Aug  2 17:51:49 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Wed Aug  2 17:51:51 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Wed Aug  2 17:51:51 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Wed Aug  2 17:51:52 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Wed Aug  2 17:51:52 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Wed Aug  2 17:51:56 2023> : called channel-4-homepage-challenger-71.0-dismissible-slices-painted
+Log <Wed Aug  2 17:51:56 2023> : Added repo: channel-4-homepage-challenger-71.0-dismissible-slices-painted
+Log <Fri Aug  4 15:00:44 2023> : Getting php version for: Main
+Log <Fri Aug  4 15:00:44 2023> : Found PHP version: 5.6
+Log <Fri Aug  4 15:00:44 2023> : Getting php version for: side-projects
+Log <Fri Aug  4 15:00:44 2023> : Found PHP version: 8.0
+Log <Fri Aug  4 15:00:44 2023> : Loaded Devilbox installations
+Log <Fri Aug  4 15:00:44 2023> : Loaded pastables
+Log <Fri Aug  4 15:01:13 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Fri Aug  4 15:01:13 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Fri Aug  4 15:01:14 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Fri Aug  4 15:01:14 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Fri Aug  4 15:01:14 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Fri Aug  4 15:01:14 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Fri Aug  4 15:01:14 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Fri Aug  4 15:01:15 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Fri Aug  4 15:01:15 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Fri Aug  4 15:01:16 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Fri Aug  4 15:01:16 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Fri Aug  4 15:01:17 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Fri Aug  4 15:01:19 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Fri Aug  4 15:01:19 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Fri Aug  4 15:01:19 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-60.0-c4-banner-on/.git
+Log <Fri Aug  4 15:01:19 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Fri Aug  4 15:01:20 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Fri Aug  4 15:01:20 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Fri Aug  4 15:01:20 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Fri Aug  4 15:01:21 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Fri Aug  4 15:01:21 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Fri Aug  4 15:01:21 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Fri Aug  4 15:01:22 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Fri Aug  4 15:01:22 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Fri Aug  4 15:01:22 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Fri Aug  4 15:01:23 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Fri Aug  4 15:01:25 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Fri Aug  4 15:01:25 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Fri Aug  4 15:01:25 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Fri Aug  4 15:01:25 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Fri Aug  4 15:01:25 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices/.git
+Log <Fri Aug  4 15:01:26 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Fri Aug  4 15:01:26 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Fri Aug  4 15:01:26 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Fri Aug  4 15:01:27 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Fri Aug  4 15:01:27 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Fri Aug  4 15:01:27 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Fri Aug  4 15:01:27 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Fri Aug  4 15:01:28 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Fri Aug  4 15:01:29 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Fri Aug  4 15:01:29 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Fri Aug  4 15:01:30 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Fri Aug  4 15:01:30 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Fri Aug  4 15:01:30 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Fri Aug  4 15:01:30 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Fri Aug  4 15:01:30 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-31.0-enlarged-brand-tiles/.git
+Log <Fri Aug  4 15:01:31 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Fri Aug  4 15:01:31 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Fri Aug  4 15:01:31 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Fri Aug  4 15:01:32 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Fri Aug  4 15:01:33 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Fri Aug  4 15:01:33 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Fri Aug  4 15:01:34 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Fri Aug  4 15:01:34 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Fri Aug  4 15:01:42 2023> : called sweep
+Log <Fri Aug  4 15:08:21 2023> : Getting php version for: Main
+Log <Fri Aug  4 15:08:21 2023> : Found PHP version: 5.6
+Log <Fri Aug  4 15:08:21 2023> : Getting php version for: side-projects
+Log <Fri Aug  4 15:08:21 2023> : Found PHP version: 8.0
+Log <Fri Aug  4 15:08:21 2023> : Loaded Devilbox installations
+Log <Fri Aug  4 15:08:21 2023> : Loaded pastables
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Fri Aug  4 15:08:35 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Fri Aug  4 15:08:36 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Fri Aug  4 15:08:36 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Fri Aug  4 15:08:37 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Fri Aug  4 15:08:37 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Fri Aug  4 15:08:38 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Fri Aug  4 15:08:40 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Fri Aug  4 15:08:40 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Fri Aug  4 15:08:40 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-60.0-c4-banner-on/.git
+Log <Fri Aug  4 15:08:40 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Fri Aug  4 15:08:40 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Fri Aug  4 15:08:41 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Fri Aug  4 15:08:41 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Fri Aug  4 15:08:42 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Fri Aug  4 15:08:42 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Fri Aug  4 15:08:42 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Fri Aug  4 15:08:42 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Fri Aug  4 15:08:43 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Fri Aug  4 15:08:43 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Fri Aug  4 15:08:44 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices/.git
+Log <Fri Aug  4 15:08:46 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Fri Aug  4 15:08:47 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Fri Aug  4 15:08:47 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Fri Aug  4 15:08:47 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Fri Aug  4 15:08:48 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Fri Aug  4 15:08:48 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Fri Aug  4 15:08:48 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Fri Aug  4 15:08:49 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Fri Aug  4 15:08:49 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Fri Aug  4 15:08:50 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Fri Aug  4 15:08:50 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Fri Aug  4 15:08:51 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Fri Aug  4 15:08:51 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Fri Aug  4 15:08:51 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Fri Aug  4 15:08:51 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-31.0-enlarged-brand-tiles/.git
+Log <Fri Aug  4 15:08:51 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Fri Aug  4 15:08:52 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Fri Aug  4 15:08:52 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Fri Aug  4 15:08:52 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Fri Aug  4 15:08:54 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Fri Aug  4 15:08:54 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Fri Aug  4 15:08:55 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Fri Aug  4 15:08:55 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Fri Aug  4 15:10:35 2023> : Getting php version for: Main
+Log <Fri Aug  4 15:10:35 2023> : Found PHP version: 5.6
+Log <Fri Aug  4 15:10:35 2023> : Getting php version for: side-projects
+Log <Fri Aug  4 15:10:35 2023> : Found PHP version: 8.0
+Log <Fri Aug  4 15:10:35 2023> : Loaded Devilbox installations
+Log <Fri Aug  4 15:10:35 2023> : Loaded pastables
+Log <Fri Aug  4 15:11:44 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Fri Aug  4 15:11:44 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Fri Aug  4 15:11:45 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Fri Aug  4 15:11:46 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Fri Aug  4 15:11:47 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Fri Aug  4 15:11:47 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Fri Aug  4 15:11:48 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Fri Aug  4 15:11:51 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Fri Aug  4 15:11:51 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Fri Aug  4 15:11:51 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-60.0-c4-banner-on/.git
+Log <Fri Aug  4 15:11:51 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Fri Aug  4 15:11:52 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Fri Aug  4 15:11:52 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Fri Aug  4 15:11:53 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Fri Aug  4 15:11:53 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Fri Aug  4 15:11:54 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Fri Aug  4 15:11:54 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Fri Aug  4 15:11:54 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Fri Aug  4 15:11:55 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Fri Aug  4 15:11:56 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Fri Aug  4 15:11:57 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Fri Aug  4 15:11:59 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Fri Aug  4 15:11:59 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Fri Aug  4 15:12:00 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Fri Aug  4 15:12:00 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Fri Aug  4 15:12:00 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices/.git
+Log <Fri Aug  4 15:12:00 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Fri Aug  4 15:12:01 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Fri Aug  4 15:12:01 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Fri Aug  4 15:12:01 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Fri Aug  4 15:12:02 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Fri Aug  4 15:12:02 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Fri Aug  4 15:12:03 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Fri Aug  4 15:12:04 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Fri Aug  4 15:12:04 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Fri Aug  4 15:12:05 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Fri Aug  4 15:12:05 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Fri Aug  4 15:12:06 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Fri Aug  4 15:12:06 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Fri Aug  4 15:12:06 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Fri Aug  4 15:12:06 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-31.0-enlarged-brand-tiles/.git
+Log <Fri Aug  4 15:12:06 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Fri Aug  4 15:12:07 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Fri Aug  4 15:12:07 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Fri Aug  4 15:12:08 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Fri Aug  4 15:12:09 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Fri Aug  4 15:12:10 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Fri Aug  4 15:12:10 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Fri Aug  4 15:12:10 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Fri Aug 11 14:43:40 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 14:43:40 2023> : Loaded pastables
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/imgui/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/laravel-learning/httpdocs/library/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/nativefiledialog/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/imgui/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/json/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/nativefiledialog/.git
+Log <Fri Aug 11 14:44:28 2023> : /Users/alexdavies/git/side-projects/DevSpeedup/.git
+Log <Fri Aug 11 14:44:29 2023> : /Users/alexdavies/git/sites/laravel-react/.git
+Log <Fri Aug 11 14:44:29 2023> : /Users/alexdavies/git/sites/new-woolacombe-sales/.git
+Log <Fri Aug 11 14:44:30 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-27.0-all-4-promo-on/.git
+Log <Fri Aug 11 14:44:30 2023> : /Users/alexdavies/git/sites/channel-4-site-banner-challenger-27.0-c4+-promo-in-navigation/.git
+Log <Fri Aug 11 14:44:31 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk/.git
+Log <Fri Aug 11 14:44:33 2023> : /Users/alexdavies/git/sites/ports-europe-external-theme/.git
+Log <Fri Aug 11 14:44:33 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-94.0-changing-recommended-for/.git
+Log <Fri Aug 11 14:44:33 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-60.0-c4-banner-on/.git
+Log <Fri Aug 11 14:44:33 2023> : /Users/alexdavies/git/sites/ti-crm/.git
+Log <Fri Aug 11 14:44:33 2023> : /Users/alexdavies/git/sites/clients.ticor.co.uk/.git
+Log <Fri Aug 11 14:44:34 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-97.0-labelling-personalised/.git
+Log <Fri Aug 11 14:44:34 2023> : /Users/alexdavies/git/sites/prospects.designamite.co/.git
+Log <Fri Aug 11 14:44:35 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-57.0-picture-in-picture/.git
+Log <Fri Aug 11 14:44:35 2023> : /Users/alexdavies/git/sites/scope-picture-in-picture-on-live-tv/.git
+Log <Fri Aug 11 14:44:35 2023> : /Users/alexdavies/git/sites/channel-4-my-4-challenger-2.0-recommended-tab-on-my-4-pages/.git
+Log <Fri Aug 11 14:44:36 2023> : /Users/alexdavies/git/sites/fibrenest-portal/.git
+Log <Fri Aug 11 14:44:36 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-71.0-dismissible-slices-painted/.git
+Log <Fri Aug 11 14:44:36 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-28.0-my-list-slice-on-category-page/.git
+Log <Fri Aug 11 14:44:37 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.1-enlarged-brand-tiles-within-slice-iteration/.git
+Log <Fri Aug 11 14:44:38 2023> : /Users/alexdavies/git/sites/woolacombe.co.uk old/.git
+Log <Fri Aug 11 14:44:39 2023> : /Users/alexdavies/git/sites/alex-starter-project/.git
+Log <Fri Aug 11 14:44:39 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-24.0-category-slices-on-all/.git
+Log <Fri Aug 11 14:44:40 2023> : /Users/alexdavies/git/sites/my-future-living/.git
+Log <Fri Aug 11 14:44:40 2023> : /Users/alexdavies/git/sites/my-future-living/wp-content/plugins/official-facebook-pixel/vendor/techcrunch/wp-async-task/.git
+Log <Fri Aug 11 14:44:40 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices/.git
+Log <Fri Aug 11 14:44:40 2023> : /Users/alexdavies/git/sites/channel-4-landing-page-challenger-6.0-showcasing-brands-on-c4-landing-page/.git
+Log <Fri Aug 11 14:44:41 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.4-num-brands/.git
+Log <Fri Aug 11 14:44:41 2023> : /Users/alexdavies/git/sites/site-management/.git
+Log <Fri Aug 11 14:44:41 2023> : /Users/alexdavies/git/sites/crm.persimmonhomes.com/.git
+Log <Fri Aug 11 14:44:42 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign/.git
+Log <Fri Aug 11 14:44:42 2023> : /Users/alexdavies/git/sites/fibrenest-14724/.git
+Log <Fri Aug 11 14:44:42 2023> : /Users/alexdavies/git/sites/mathewsluxurytravel.com/.git
+Log <Fri Aug 11 14:44:43 2023> : /Users/alexdavies/git/sites/portseurope.com/.git
+Log <Fri Aug 11 14:44:44 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-53.0-changing-guidance/.git
+Log <Fri Aug 11 14:44:44 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-56.0-play-ad-free-cta-on/.git
+Log <Fri Aug 11 14:44:44 2023> : /Users/alexdavies/git/sites/sweep/.git
+Log <Fri Aug 11 14:44:45 2023> : /Users/alexdavies/git/sites/alumni/.git
+Log <Fri Aug 11 14:44:45 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-93.0-most-popular-slice-feed/.git
+Log <Fri Aug 11 14:44:45 2023> : /Users/alexdavies/git/sites/Channel 4 - PPC 54.0 - Suggested Content for Unavailable Brands/.git
+Log <Fri Aug 11 14:44:45 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-31.0-enlarged-brand-tiles/.git
+Log <Fri Aug 11 14:44:45 2023> : /Users/alexdavies/git/sites/customer-portal/.git
+Log <Fri Aug 11 14:44:46 2023> : /Users/alexdavies/git/sites/channel-4-programme-pages-challenger-52.0-picture-in-picture/.git
+Log <Fri Aug 11 14:44:46 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-90.0-genre-slices-alex/.git
+Log <Fri Aug 11 14:44:46 2023> : /Users/alexdavies/git/sites/channel-4-sign-in-preference-centre-challenger-6.3-preference/.git
+Log <Fri Aug 11 14:44:47 2023> : /Users/alexdavies/git/sites/tracks-suzuki-wordpress/.git
+Log <Fri Aug 11 14:44:48 2023> : /Users/alexdavies/git/sites/channel-4-homepage-challenger-69.0-enlarged-brand-tiles-within/.git
+Log <Fri Aug 11 14:44:48 2023> : /Users/alexdavies/git/sites/channel-4-category-page-challenger-25.0-category-page-redesign my copy/.git
+Log <Fri Aug 11 14:44:48 2023> : /Users/alexdavies/git/sites/channel-4-programme-page-challenger-55.0-brand-hub-redesign/.git
+Log <Fri Aug 11 14:48:36 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 14:48:36 2023> : Loaded pastables
+Log <Fri Aug 11 14:49:28 2023> :  ,  , 
+
+Log <Fri Aug 11 14:52:09 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 14:52:09 2023> : Loaded pastables
+Log <Fri Aug 11 14:52:56 2023> : 6 , 239 , 38
+
+Log <Fri Aug 11 14:53:50 2023> : 6 , 239 , 38
+
+Log <Fri Aug 11 14:53:50 2023> : 15 , 8968 , 73
+
+Log <Fri Aug 11 14:53:51 2023> : 32 , 1846 , 225
+
+Log <Fri Aug 11 14:53:51 2023> :  ,  , 
+
+Log <Fri Aug 11 14:58:55 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 14:58:55 2023> : Loaded pastables
+Log <Fri Aug 11 14:59:42 2023> : 6 , 239 , 38
+
+Log <Fri Aug 11 14:59:42 2023> :  ,  , 
+
+Log <Fri Aug 11 15:04:50 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 15:04:50 2023> : Loaded pastables
+Log <Fri Aug 11 15:05:45 2023> : 110,20566,9014
+
+Log <Fri Aug 11 15:05:45 2023> : 6,239,38
+
+Log <Fri Aug 11 15:05:45 2023> : ,,
+
+Log <Fri Aug 11 16:19:30 2023> : Loaded Devilbox installations
+Log <Fri Aug 11 16:19:30 2023> : Loaded pastables
+Log <Wed Apr 24 17:23:45 2024> : /Users/alexdavies/git/side-projects/DevSpeedup/src/devilboxInstallations.json
+Log <Wed Apr 24 17:23:45 2024> : Save file loaded
+Log <Wed Apr 24 17:23:45 2024> : Getting php version for: Main
+Log <Wed Apr 24 17:23:45 2024> : Found PHP version: 8.2
+Log <Wed Apr 24 17:23:45 2024> : Getting php version for: side-projects
+Log <Wed Apr 24 17:23:45 2024> : Found PHP version: 8.0
+Log <Wed Apr 24 17:23:45 2024> : Loaded Devilbox installations
+Log <Wed Apr 24 17:23:45 2024> : Loaded pastables
+Log <Wed Apr 24 17:25:46 2024> : /Users/alexdavies/git/side-projects/DevSpeedup/src/devilboxInstallations.json
+Log <Wed Apr 24 17:25:46 2024> : Save file loaded
+Log <Wed Apr 24 17:25:46 2024> : Getting php version for: Main
+Log <Wed Apr 24 17:25:46 2024> : Found PHP version: 8.2
+Log <Wed Apr 24 17:25:46 2024> : Getting php version for: side-projects
+Log <Wed Apr 24 17:25:46 2024> : Found PHP version: 8.0
+Log <Wed Apr 24 17:25:46 2024> : Loaded Devilbox installations
+Log <Wed Apr 24 17:25:46 2024> : Loaded pastables
+Log <Wed Apr 24 17:29:48 2024> : /Users/alexdavies/git/side-projects/DevSpeedup/src/devilboxInstallations.json
+Log <Wed Apr 24 17:29:48 2024> : Save file loaded
+Log <Wed Apr 24 17:29:48 2024> : Getting php version for: Main
+Log <Wed Apr 24 17:29:48 2024> : Found PHP version: 8.2
+Log <Wed Apr 24 17:29:48 2024> : Getting php version for: side-projects
+Log <Wed Apr 24 17:29:48 2024> : Found PHP version: 8.0
+Log <Wed Apr 24 17:29:48 2024> : Loaded Devilbox installations
+Log <Wed Apr 24 17:29:48 2024> : Loaded pastables

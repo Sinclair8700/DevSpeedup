@@ -1,0 +1,38 @@
+{
+    "devilboxInstallations": [
+        {
+            "alias": "Main",
+            "path": "/Users/alexdavies/Downloads/devilbox/devilbox",
+            "presets": [
+                {
+                    "name": "Woolacombe",
+                    "phpVersion": "8.2"
+                },
+                {
+                    "name": "Prospects",
+                    "phpVersion": "5.6"
+                },
+                {
+                    "name": "CRM",
+                    "phpVersion": "8.1"
+                },
+                {
+                    "name": "Fibrenest Website",
+                    "phpVersion": "7.4"
+                },
+                {
+                    "name": "Fibrenest Portal",
+                    "phpVersion": "7.4"
+                },
+                {
+                    "name": "Woolacombe CRM",
+                    "phpVersion": "8.2"
+                }
+            ]
+        },
+        {
+            "alias": "side-projects",
+            "path": "/Users/alexdavies/Downloads/devilbox/devilbox-side"
+        }
+    ]
+}

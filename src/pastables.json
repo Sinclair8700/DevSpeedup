@@ -1,0 +1,155 @@
+{
+    "allPastableTags": [
+        "Wordpress",
+        "Htaccess",
+        "Cron",
+        "Docker",
+        "Devilbox",
+        "Node",
+        "Composer",
+        "Servers",
+        "SQL",
+        "Laravel",
+        "Woolacombe",
+        "Brew"
+    ],
+    "pastables": [
+        {
+            "name": "Change all links",
+            "pastableText": "wp search-replace 'http://target.co.uk' 'http://replacement.co.uk'",
+            "tags": [
+                "Wordpress"
+            ]
+        },
+        {
+            "name": "Replace all images",
+            "pastableText": "RewriteCond %{REQUEST_FILENAME} !-f\nRewriteRule ^.*(\\.gif|\\.jpe?g|\\.png)$ https://placehold.co/600x400/EEE/31343C [L]",
+            "tags": [
+                "Htaccess"
+            ]
+        },
+        {
+            "name": "Crontab guru",
+            "pastableText": "https://crontab.guru/",
+            "tags": [
+                "Cron"
+            ]
+        },
+        {
+            "name": "Activate theme",
+            "pastableText": "wp theme activate name_of_theme",
+            "tags": [
+                "Wordpress"
+            ]
+        },
+        {
+            "name": "Start docker container",
+            "pastableText": "docker-compose up",
+            "tags": [
+                "Docker"
+            ]
+        },
+        {
+            "name": "Kill docker container",
+            "pastableText": "docker-compose down",
+            "tags": [
+                "Docker"
+            ]
+        },
+        {
+            "name": "Open devilbox shell",
+            "pastableText": "./shell.sh",
+            "tags": [
+                "Devilbox"
+            ]
+        },
+        {
+            "name": "Change node version",
+            "pastableText": "nvm use 18",
+            "tags": [
+                "Node"
+            ]
+        },
+        {
+            "name": "Install node version",
+            "pastableText": "nvm install 18",
+            "tags": [
+                "Node"
+            ]
+        },
+        {
+            "name": "Install node packages",
+            "pastableText": "npm i",
+            "tags": [
+                "Node"
+            ]
+        },
+        {
+            "name": "Install composer packages",
+            "pastableText": "composer i",
+            "tags": [
+                "Composer"
+            ]
+        },
+        {
+            "name": "Wordpress dev sites",
+            "pastableText": "intwp/mnt/volume_lon1_02/\nintwp/var/www/",
+            "tags": [
+                "Servers",
+                "Wordpress"
+            ]
+        },
+        {
+            "name": "Dump a table",
+            "pastableText": "mysqldump table-name > ~/dump.sql",
+            "tags": [
+                "Servers",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Create new laravel project",
+            "pastableText": "composer create-project laravel/laravel name-of-app",
+            "tags": [
+                "Composer",
+                "Laravel"
+            ]
+        },
+        {
+            "name": "Remove nanorep",
+            "pastableText": "document.querySelector('#nanorep1').remove()",
+            "tags": [
+                "Woolacombe"
+            ]
+        },
+        {
+            "name": "Install brew package on apple silicon",
+            "pastableText": "arch -x86_64 brew install [package]",
+            "tags": [
+                "Brew"
+            ]
+        },
+        {
+            "name": "Fix for: The requested image's platform (linux/amd64) does not match the detected host platform (linux/arm64/v8)",
+            "pastableText": "docker pull --platform linux/arm64/v8 [docker image name]\n\nplatform: linux/arm64/v8 to top of container in docker-compose.yml",
+            "tags": [
+                "Docker",
+                "Composer"
+            ]
+        },
+        {
+            "name": "Stop robots on dev sites",
+            "pastableText": "<?php if (strpos(site_url(), 'designamite') !== false) { ?>\n  <meta name=\"robots\" content=\"noindex\">\n<?php } ?>",
+            "tags": [
+                "Servers"
+            ]
+        },
+        {
+            "name": "Get all Taxonomies and Meta Data for a post type",
+            "pastableText": " while ( $loop->have_posts() ) : $loop->the_post();\n    $post_id = get_the_ID();\n    $all_meta = get_post_meta($post_id);\n\n    echo '<h3>Meta Data</h3>';\n    echo '<ul>';\n    foreach ($all_meta as $meta_key => $meta_value) {\n        echo '<li><strong>' . $meta_key . ':</strong> ' . implode(', ', $meta_value) . '</li>';\n    }\n    echo '</ul>';\n\n    $taxonomies = get_object_taxonomies($post_type);\n\n        echo '<h3>Taxonomies for this Post</h3>';\n        echo '<ul>';\n        foreach ($taxonomies as $taxonomy) {\n            // Get the terms for this post under this taxonomy\n            $terms = get_the_terms($post_id, $taxonomy);\n            if (!empty($terms) && !is_wp_error($terms)) {\n                echo '<li><strong>' . $taxonomy . ':</strong> ';\n                foreach ($terms as $term) {\n                    echo $term->name . ', ';\n                }\n                echo '</li>';\n            } else {\n                echo '<li><strong>' . $taxonomy . ':</strong> No terms found.</li>';\n            }\n        }\n        echo '</ul>';\n\n      //include get_template_directory() . \"/dsm/members/member-thumbnail.php\";\n\n      $i++;\n    endwhile;",
+            "tags": [
+                "Wordpress"
+            ]
+        }
+    ]
+}

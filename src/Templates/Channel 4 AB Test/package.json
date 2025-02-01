@@ -1,0 +1,38 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "Optimzely Project Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Brown / @sjb10287",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-core": "^6.26.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clipboard": "^0.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-insert": "^0.5.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-postcss": "^7.0.1",
+    "gulp-prettier": "^3.0.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "lost": "^8.2.0",
+    "postcss-cssnext": "^3.0.2",
+    "precss": "^2.0.0"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
+  }
+}

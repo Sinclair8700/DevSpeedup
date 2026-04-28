@@ -11,7 +11,9 @@
         "SQL",
         "Laravel",
         "Woolacombe",
-        "Brew"
+        "Brew",
+        "Site Management",
+        "Terminal"
     ],
     "pastables": [
         {
@@ -149,6 +151,41 @@
             "pastableText": " while ( $loop->have_posts() ) : $loop->the_post();\n    $post_id = get_the_ID();\n    $all_meta = get_post_meta($post_id);\n\n    echo '<h3>Meta Data</h3>';\n    echo '<ul>';\n    foreach ($all_meta as $meta_key => $meta_value) {\n        echo '<li><strong>' . $meta_key . ':</strong> ' . implode(', ', $meta_value) . '</li>';\n    }\n    echo '</ul>';\n\n    $taxonomies = get_object_taxonomies($post_type);\n\n        echo '<h3>Taxonomies for this Post</h3>';\n        echo '<ul>';\n        foreach ($taxonomies as $taxonomy) {\n            // Get the terms for this post under this taxonomy\n            $terms = get_the_terms($post_id, $taxonomy);\n            if (!empty($terms) && !is_wp_error($terms)) {\n                echo '<li><strong>' . $taxonomy . ':</strong> ';\n                foreach ($terms as $term) {\n                    echo $term->name . ', ';\n                }\n                echo '</li>';\n            } else {\n                echo '<li><strong>' . $taxonomy . ':</strong> No terms found.</li>';\n            }\n        }\n        echo '</ul>';\n\n      //include get_template_directory() . \"/dsm/members/member-thumbnail.php\";\n\n      $i++;\n    endwhile;",
             "tags": [
                 "Wordpress"
+            ]
+        },
+        {
+            "name": "Approved Dayworks Query",
+            "pastableText": "kco = '210' and tip_type = 'TRADE' and pot_type IN ('H', 'W') and poh_chgno = '' and job_num = '128' and (poh_cisnotes = '' or poh_cisnotes IS NULL) and poh_appstat = 'COM'",
+            "tags": [
+                "Site Management"
+            ]
+        },
+        {
+            "name": "TMUX Binds",
+            "pastableText": "tmux list-sessions or tmux ls -> show the current sessions\ntmux attach -t [id or name] -> connect to a session\ntmux rename-session -t [id or name] [name] -> rename a session\ntmux new -s [name] -> creates a new tmux session with that name\ntmux kill-session -t [id or name] -> kill a specific tmux session\n\ntmux keyboard shortcuts cmd + d -> split window macOS (don’t bother)\n\nwhen in tmux (all commands start with ctrl+b):\nd -> detach from tmux\nc -> new window\n[index of window] -> go to that window\n, -> rename window\nx -> kill window (or just type exit)\nshift + 5 -> split window vertical to right\nshift + ' -> split window bottom\narrow keys -> switch pane\n\n\nVIM keyboard shortcuts :w -> save file\n:q -> quit vim\n\nmodes:\ni -> insert mode\nesc, ctrl+c -> exit mode to normal\nv -> visual mode\nshift + v -> visual line mode (adds new lines to copy and pasted lines)\na -> move forward and go insert mode\n\nmovement\nj -> move cursor up\nk -> move cursor down L -> move cursor right\nh -> move cursor left\nw -> move cursor over one word (faster than L)\nb -> move cursor back one word (faster than h)\n[offset]j -> move cursor up by [offset] lines\n[offset]k -> move cursor down by [offset] lines\no -> swap to other end of selection in \n\nactions:\ndd -> delete a line and puts it into clip board\nu -> undo previous action\nctrl + r -> redo previous action\nd[offset][direction] -> delete [offset] lines in [direction] (direction is j, k, l, h)\ndw -> delete next word\ndb -> delete previous word\n in visual mode:\ny -> copy\np -> paste ",
+            "tags": [
+                "Terminal"
+            ]
+        },
+        {
+            "name": "CLose customer care issues",
+            "pastableText": "SELECT * from [site_app].[issues] as isu\nwhere (\nisu.plot_id in (\nselect pl.plot_id from [site_app].[plots] as pl \njoin [site_app].[developments] as dev on dev.development_id = pl.development_id\njoin [site_app].companies as comp on comp.company_id = dev.company_id\nwhere \n(pl.number = '001' and dev.coins_code = '046' and comp.coins_code = '315') or\n(pl.number = '072' and dev.coins_code = '046' and comp.coins_code = '315')\n)\nand isu.issue_ref in ('136411', '139320')\n)\n\nSELECT * from [site_app].issue_tasks as isut\nWHERE (\nisut.issue_id in (\nSELECT issue_id from [site_app].[issues] as isu\nwhere (\nisu.plot_id in (\nselect pl.plot_id from [site_app].[plots] as pl \njoin [site_app].[developments] as dev on dev.development_id = pl.development_id\njoin [site_app].companies as comp on comp.company_id = dev.company_id\nwhere \n(pl.number = '001' and dev.coins_code = '046' and comp.coins_code = '315') or\n(pl.number = '072' and dev.coins_code = '046' and comp.coins_code = '315')\n)\nand isu.issue_ref in ('136411', '139320')\n)\n)\n)\n\n\n\nUPDATE site_app.issues\nset status = 3, closed = CAST(GETDATE() AS DATETIME2) \nwhere site_app.issues.issue_id in ('4520602', '4601208')\n\nUPDATE site_app.issue_tasks \nset status = 3, completed = CAST(GETDATE() AS DATETIME2), completed_by = null\nwhere site_app.issue_tasks.issue_tasks_id in ('5946148', '6026071')",
+            "tags": [
+                "Site Management"
+            ]
+        },
+        {
+            "name": "Find Developments with usable Calloffs",
+            "pastableText": "SELECT DISTINCT\n    po.kco,\n    po.job_num,\n    hb.vsi_name,\n    hb.jtlastupdate\nFROM coins.POOrder po\nLEFT JOIN coins.HBDevelopment hb\n    ON  hb.kco     = po.kco\n    AND hb.job_num = po.job_num\nWHERE\n    -- PO has call-offs enabled\n    NULLIF(LTRIM(RTRIM(ISNULL(po.poh_alwcode, ''))), '') IS NOT NULL\n\n    -- Supplier exists and is active in COINS\n    AND EXISTS (\n        SELECT 1 FROM coins.APVendor v\n        WHERE v.kco = po.kco AND v.cim_intref = po.cim_intref\n    )\n\n    -- At least one line on the current revision still has qty remaining to call off\n    AND EXISTS (\n        SELECT 1\n        FROM coins.POOrderRevisionLine porl\n        WHERE porl.kco       = po.kco\n          AND porl.poh_ordno = po.poh_ordno\n          AND porl.poh_chgno = po.poh_lastchgno\n          AND (\n              porl.pol_qty - ISNULL((\n                  SELECT SUM(col.ocl_qty)\n                  FROM coins.xPOcoline col\n                  INNER JOIN coins.xPOCOHDR coh\n                      ON  col.kco       = coh.kco\n                      AND col.poh_ordno = coh.poh_ordno\n                      AND col.och_cono  = coh.och_cono\n                  WHERE col.kco       = porl.kco\n                    AND col.poh_ordno = porl.poh_ordno\n                    AND col.poi_item  = porl.poi_item\n                    AND coh.och_confirm = 1\n              ), 0)\n          ) > 0.01\n    )\nORDER BY hb.jtlastupdate DESC;",
+            "tags": [
+                "Site Management"
+            ]
+        },
+        {
+            "name": "Add No-change uncommitted to all plots",
+            "pastableText": "INSERT INTO site_app.plot_build_stages_uncommitted (\n    plot_id,\n    build_stage_id,\n    completed_date,\n    is_committed,\n    is_changed\n)\nSELECT\n    p.plot_id,\n    null,\n    GETDATE(),\n    0,\n    0\nFROM site_app.plots p\nWHERE p.development_id = 7473;",
+            "tags": [
+                "Site Management"
             ]
         }
     ]
